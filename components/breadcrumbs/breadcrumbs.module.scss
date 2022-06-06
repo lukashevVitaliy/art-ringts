@@ -1,0 +1,23 @@
+@import "../../styles/variables.scss";
+
+.breadcrumbs_list {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.breadcrumbs_item {
+	margin-right: 20px;
+	a {
+		font-size: 14px;
+		line-height: 17px;
+		color: $main-color;
+		cursor: pointer;
+	}
+	&:after {
+		content: "›";
+		position: relative;
+		top: 0;
+		transform: translateY(-50%);
+		right: -10px;
+	}
+}

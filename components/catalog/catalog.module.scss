@@ -1,0 +1,63 @@
+@import "../../styles/variables.scss";
+
+.catalog {
+	padding: 50px 0;
+	background: #020f59;
+	color: $white;
+	&_title {
+		@extend %h1-title;
+		text-align: center;
+		margin-bottom: 50px;
+	}
+	&_items {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(290px, 400px));
+		grid-auto-rows: 1fr;
+		grid-gap: 25px;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 25px;
+	}
+	&_item {
+		position: relative;
+		max-width: 400px;
+		height: 300px;
+		&:hover {
+			.catalog_item_title {
+				background: rgba($color: $white, $alpha: 1);
+			}
+		}
+		&_image {
+			width: 100%;
+			height: 100%;
+			img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+			}
+		}
+		&_title {
+			position: absolute;
+			bottom: 8px;
+			left: 50%;
+			transform: translateX(-50%);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			width: 100%;
+			min-height: 42px;
+			font-weight: 600;
+			font-size: 14px;
+			line-height: 22px;
+			text-transform: uppercase;
+			background: rgba($color: $white, $alpha: 0.3);
+			color: #020f59;
+			transition: 0.6s all;
+		}
+	}
+	&_desc {
+		p:not(:last-child) {
+			margin-bottom: 16px;
+		}
+	}
+}

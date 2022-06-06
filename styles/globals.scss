@@ -1,0 +1,100 @@
+@import "./reset.scss";
+@import "./variables.scss";
+
+html,
+body {
+	height: 100%;
+	font-size: 16px;
+	line-height: 25px;
+	font-weight: 300;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+	font-style: normal;
+	color: $main-color;
+	background: $white;
+	overflow-x: hidden;
+	min-width: 320px;
+}
+
+#__next {
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 1 auto;
+}
+
+.container {
+	max-width: 1340px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.swiper-pagination-bullet {
+	border: 1px solid #020f59;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+	width: 10px;
+	height: 10px;
+	background: #020f59;
+	opacity: 0.5;
+	border: 1px solid #020f59;
+}
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+// ----- slider -----
+.swiper-horizontal > .swiper-pagination-progressbar,
+.swiper-pagination-progressbar.swiper-pagination-horizontal,
+.swiper-pagination-progressbar.swiper-pagination-vertical.swiper-pagination-progressbar-opposite,
+.swiper-vertical > .swiper-pagination-progressbar.swiper-pagination-progressbar-opposite {
+	bottom: 0 !important;
+	top: initial !important;
+}
+
+// ----- card slider image  -----
+.swiper-image {
+	width: 280px;
+	height: 280px;
+}
+
+// ----- select -----
+.size-select.css-b62m3t-container {
+	width: 80px;
+}
+.sort-select.css-b62m3t-container {
+	width: 290px;
+}
+.price-select.css-b62m3t-container {
+	width: 125px;
+}
+.inserts-select.css-b62m3t-container {
+	width: 134px;
+}
+
+.custom-select__control.css-1s2u09g-control {
+	border: none;
+}
+.custom-select__indicator-separator.css-1okebmr-indicatorSeparator {
+	width: 0;
+}
+.custom-select__single-value.css-qc6sy-singleValue {
+	font-weight: 600;
+	line-height: 22px;
+	text-align: center;
+}
+.custom-select__value-container.custom-select__value-container--has-value.css-319lph-ValueContainer {
+	padding: 0;
+}
+
+.custom-select__control.custom-select__control--is-focused.custom-select__control--menu-is-open.css-1pahdxg-control {
+	border-color: $grey;
+	box-shadow: 0 0 5px 1px $grey;
+}

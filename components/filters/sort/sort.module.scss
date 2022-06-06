@@ -1,0 +1,10 @@
+@import "/styles/variables.scss";
+
+.sort_panel {
+	display: flex;
+	p {
+		margin-right: 16px;
+		display: inline-flex;
+		align-items: center;
+	}
+}

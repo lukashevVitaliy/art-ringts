@@ -1,0 +1,9 @@
+@import "../../styles/variables.scss";
+
+.header {
+	margin-bottom: 50px;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	min-height: 336px;
+}

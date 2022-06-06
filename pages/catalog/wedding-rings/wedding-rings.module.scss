@@ -1,0 +1,17 @@
+@import "../../../styles/variables.scss";
+
+.wedding_rings {
+	&_title {
+		@extend %h4-title;
+		margin-bottom: 15px;
+	}
+	&_desc {
+		margin-bottom: 20px;
+	}
+	&_text {
+		span {
+			font-weight: 600;
+			color: #020f59;
+		}
+	}
+}

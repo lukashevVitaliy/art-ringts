@@ -1,0 +1,46 @@
+@import "../../../styles/variables.scss";
+
+.navigate {
+	&_wrap {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	&_menu {
+		&_list {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			width: 495px;
+			min-height: 17px;
+			padding: 0;
+		}
+		&_link {
+			font-size: 14px;
+			line-height: 17px;
+			a {
+				color: $main-color;
+				opacity: 0.5;
+			}
+		}
+	}
+}
+.search_form {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 290px;
+	min-height: 17px;
+	font-size: 14px;
+	line-height: 17px;
+	input {
+		width: 240px;
+		border: none;
+		border-bottom: 1px solid $grey;
+		&::placeholder {
+			font-size: 14px;
+			line-height: 17px;
+			color: $blue;
+		}
+	}
+}

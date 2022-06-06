@@ -1,0 +1,19 @@
+@import "../../styles/variables.scss";
+
+.pagination {
+	padding-top: 20px;
+	margin-bottom: 50px;
+	text-align: center;
+	&_arrow_left {
+		margin-right: 80px;
+	}
+	&_arrow_right {
+		margin-left: 80px;
+	}
+	&_num {
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 19px;
+		opacity: 0.8;
+	}
+}

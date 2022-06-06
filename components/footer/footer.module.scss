@@ -1,0 +1,128 @@
+@import "../../styles/variables.scss";
+
+.footer {
+	margin-top: 180px;
+	width: 100%;
+	min-height: 330px;
+	background: $grey;
+	&_top {
+		padding-top: 60px;
+		margin-bottom: 10px;
+		display: flex;
+		justify-content: space-between;
+
+		&_data {
+			width: 172px;
+			height: 140px;
+			&_logo {
+				max-width: 140px;
+				min-height: 44px;
+				margin-bottom: 7px;
+				a img {
+					width: 100%;
+					height: 100%;
+					object-fit: cover;
+				}
+				a {
+					cursor: pointer;
+				}
+			}
+			&_policy {
+				margin-bottom: 41px;
+				a {
+					font-weight: 400;
+					font-size: 12px;
+					color: $main-color;
+					cursor: pointer;
+				}
+			}
+			&_itn {
+				font-weight: 400;
+				font-size: 12px;
+				line-height: 16px;
+				text-transform: uppercase;
+				opacity: 0.2;
+			}
+		}
+		&_info,
+		&_buyers,
+		&_range {
+			width: 170px;
+			min-height: 115px;
+			&_title {
+				text-transform: uppercase;
+				margin-bottom: 15px;
+			}
+			&_list {
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+				min-height: 110px;
+			}
+			&_link {
+				font-weight: 300;
+				font-size: 14px;
+				line-height: 17px;
+				a {
+					color: $main-color;
+					opacity: 0.6;
+				}
+			}
+		}
+		&_buyers {
+			&_list {
+				min-height: 80px;
+			}
+		}
+		&_range {
+			width: 240px;
+			&_list {
+				min-height: 132px;
+			}
+		}
+		&_contacts {
+			width: 200px;
+			min-height: 162px;
+			&_title {
+				text-transform: uppercase;
+				margin-bottom: 15px;
+			}
+			&_block {
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+				min-height: 127px;
+			}
+			&_phone {
+				font-weight: 400;
+				line-height: 22px;
+				a {
+					font-size: 16px;
+
+					color: $main-color;
+				}
+			}
+
+			&_location {
+				font-size: 14px;
+				line-height: 17px;
+				opacity: 0.5;
+			}
+			&_mail a {
+				font-size: 14px;
+				line-height: 17px;
+				color: $main-color;
+				opacity: 0.5;
+			}
+		}
+	}
+
+	&_bottom {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		font-size: 14px;
+		line-height: 17px;
+		padding-bottom: 60px;
+	}
+}
