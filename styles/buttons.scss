@@ -1,0 +1,22 @@
+.btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 410px;
+	height: 60px;
+	background: #020f59;
+	color: $white;
+	font-weight: 600;
+	text-transform: uppercase;
+	transition: 0.6s all;
+	&:hover {
+		background: #2f41aa;
+	}
+	&-download {
+		background: rgba($color: $blue-lite, $alpha: 0.5);
+		color: $main-color;
+		&:hover {
+			background: $blue-lite;
+		}
+	}
+}

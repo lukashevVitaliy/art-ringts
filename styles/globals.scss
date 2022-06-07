@@ -1,5 +1,6 @@
 @import "./reset.scss";
 @import "./variables.scss";
+@import "./buttons.scss";
 
 html,
 body {
@@ -34,6 +35,36 @@ main {
 	padding: 0 15px;
 }
 
+.error-form {
+	margin: 5px 0;
+	color: $red !important;
+	visibility: hidden;
+}
+
+// ----- breadcrumbs -----
+.breadcrumbs_list {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.breadcrumbs_item {
+	margin-right: 20px;
+	a {
+		font-size: 14px;
+		line-height: 17px;
+		color: $main-color;
+		cursor: pointer;
+	}
+	&:after {
+		content: "›";
+		position: relative;
+		top: 0;
+		transform: translateY(-50%);
+		right: -10px;
+	}
+}
+
+// ----- slider -----
 .swiper-pagination-bullet {
 	border: 1px solid #020f59;
 }
@@ -50,7 +81,6 @@ main {
 	align-items: center;
 }
 
-// ----- slider -----
 .swiper-horizontal > .swiper-pagination-progressbar,
 .swiper-pagination-progressbar.swiper-pagination-horizontal,
 .swiper-pagination-progressbar.swiper-pagination-vertical.swiper-pagination-progressbar-opposite,

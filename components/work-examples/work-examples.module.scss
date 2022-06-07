@@ -1,0 +1,22 @@
+@import "../../styles/variables.scss";
+
+.work_examples {
+	width: 420px;
+	height: 420px;
+	&:hover {
+		.card_image {
+			transform: scale(1.05);
+		}
+	}
+	&_image {
+		width: 420px;
+		height: 420px;
+		overflow: hidden;
+		transition: 0.3s all;
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+	}
+}

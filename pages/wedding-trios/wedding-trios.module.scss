@@ -1,0 +1,11 @@
+@import "../../styles/variables.scss";
+
+.wedding_trios {
+	&_title {
+		@extend %h4-title;
+		margin-bottom: 15px;
+	}
+	&_desc {
+		margin-bottom: 20px;
+	}
+}

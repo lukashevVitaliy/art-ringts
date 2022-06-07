@@ -40,7 +40,7 @@
 		&::placeholder {
 			font-size: 14px;
 			line-height: 17px;
-			color: $blue;
+			color: rgba($color: $main-color, $alpha: 0.5);
 		}
 	}
 }

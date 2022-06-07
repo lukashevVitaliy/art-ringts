@@ -1,4 +1,4 @@
-@import "../../../styles/variables.scss";
+@import "../../styles/variables.scss";
 
 .wedding_rings {
 	&_title {
@@ -7,11 +7,5 @@
 	}
 	&_desc {
 		margin-bottom: 20px;
-	}
-	&_text {
-		span {
-			font-weight: 600;
-			color: #020f59;
-		}
 	}
 }

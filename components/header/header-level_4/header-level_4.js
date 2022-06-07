@@ -27,22 +27,22 @@ const HeaderLevel_4 = () => {
 					<nav className={s.menu_bottom}>
 						<ul className={s.menu_bottom_list}>
 							<li className={s.menu_bottom_link}>
-								<Link href="#">
+								<Link href="/wedding-rings">
 									<a>ОБРУЧАЛЬНЫЕ КОЛЬЦА</a>
 								</Link>
 							</li>
 							<li className={s.menu_bottom_link}>
-								<Link href="#">
+								<Link href="/engagement-rings">
 									<a>ПОМОЛВОЧНЫЕ КОЛЬЦА</a>
 								</Link>
 							</li>
 							<li className={s.menu_bottom_link}>
-								<Link href="#">
-									<a>СВАДЕБНЫЕ ДУЭТЫ</a>
+								<Link href="/wedding-trios">
+									<a>СВАДЕБНЫЕ ТРИО</a>
 								</Link>
 							</li>
 							<li className={s.menu_bottom_link}>
-								<Link href="#">
+								<Link href="/rings-to-order">
 									<a>НА ЗАКАЗ</a>
 								</Link>
 							</li>

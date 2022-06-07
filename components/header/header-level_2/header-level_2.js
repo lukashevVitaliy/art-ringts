@@ -12,12 +12,12 @@ const HeaderLevel_2 = () => {
 					<nav className={s.navigate_menu}>
 						<ul className={s.navigate_menu_list}>
 							<li className={s.navigate_menu_link}>
-								<Link href="#">
+								<Link href="/studio">
 									<a>Студия</a>
 								</Link>
 							</li>
 							<li className={s.navigate_menu_link}>
-								<Link href="#">
+								<Link href="/about">
 									<a>О нас</a>
 								</Link>
 							</li>
