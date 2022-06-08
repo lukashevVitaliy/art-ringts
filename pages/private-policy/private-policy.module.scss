@@ -1,0 +1,14 @@
+@import "../../styles/variables.scss";
+
+.private_policy {
+	&_title {
+		@extend %h3-title;
+		margin-bottom: 30px;
+	}
+	&_desc {
+		font-weight: 400;
+		p:not(:last-child) {
+			margin-bottom: 10px;
+		}
+	}
+}

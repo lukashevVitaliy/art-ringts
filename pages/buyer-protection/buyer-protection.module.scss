@@ -1,0 +1,20 @@
+@import "../../styles/variables.scss";
+
+.buyer_protection {
+	width: 100%;
+	min-height: 584px;
+	background: url("/assets/bg/buyer-protection.png") center / cover no-repeat;
+	&_title {
+		padding-top: 100px;
+		margin-bottom: 20px;
+		@extend %h1-title;
+		text-align: left;
+	}
+	&_desc {
+		max-width: 450px;
+		font-weight: 400;
+	}
+	&_desc p {
+		text-transform: uppercase;
+	}
+}

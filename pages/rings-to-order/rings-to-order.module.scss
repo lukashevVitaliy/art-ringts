@@ -89,7 +89,7 @@
 	&_application {
 		padding-top: 50px;
 		display: grid;
-		grid-template-columns: 870px 294px;
+		grid-template-columns: 870px 362px;
 		grid-auto-rows: 1fr;
 		justify-content: space-between;
 		width: 100%;
@@ -169,6 +169,16 @@
 		}
 		button {
 			width: 100%;
+		}
+	}
+	.info {
+		max-width: 362px;
+		min-height: 100px;
+		margin-top: 23px;
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
 		}
 	}
 }

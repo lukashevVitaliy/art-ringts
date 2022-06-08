@@ -1,3 +1,4 @@
+import Head from "next/head";
 import SliderStudio from "../../components/slider-studio/slider-studio";
 
 import s from "./studio.module.scss";
@@ -6,7 +7,9 @@ import s from "./studio.module.scss";
 const Studio = () => {
 	return (
 		<div className={s.studio}>
-
+			<Head>
+				<title>Studio</title>
+			</Head>
 			<div className={s.studio_wrap}>
 				<div className="container">
 					<h1 className={s.studio_title}>СТУДИЯ</h1>

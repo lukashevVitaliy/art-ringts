@@ -1,3 +1,4 @@
+import Head from "next/dist/shared/lib/head";
 import Link from "next/link";
 import Filters from "../../components/filters/filters";
 import ProductsList from "../../components/products-list/products-list";
@@ -10,6 +11,9 @@ import s from "./wedding-trios.module.scss";
 const WeddingTrios = () => {
 	return (
 		<div className={s.wedding_trios}>
+			<Head>
+				<title>Wedding Trios</title>
+			</Head>
 			<div className="container">
 				<ul className="breadcrumbs_list">
 					<li className="breadcrumbs_item">

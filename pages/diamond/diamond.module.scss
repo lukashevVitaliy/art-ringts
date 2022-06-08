@@ -1,0 +1,28 @@
+@import "../../styles/variables.scss";
+
+.diamond {
+	display: flex;
+	justify-content: center;
+	&_wrap {
+		max-width: 830px;
+		min-height: 100px;
+		text-align: center;
+		p {
+			font-weight: 400;
+			margin-bottom: 10px;
+		}
+		p span {
+			font-weight: 700;
+		}
+	}
+	&_image {
+		margin: 40px auto 0;
+		max-width: 251px;
+		min-height: 100px;
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+	}
+}

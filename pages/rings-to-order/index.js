@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import SliderWorkExamples from "../../components/slider-work-examples/slider-work-examples";
@@ -8,6 +9,9 @@ import s from "./rings-to-order.module.scss";
 const RingsToOrder = () => {
 	return (
 		<div className={s.rings_to_order}>
+			<Head>
+				<title>Rings To Order</title>
+			</Head>
 			<div className="container">
 				<ul className="breadcrumbs_list">
 					<li className="breadcrumbs_item">
@@ -116,7 +120,11 @@ const RingsToOrder = () => {
 						<textarea name="comment" maxLength={1000} />
 						<button className="btn">РАССЧИТАТЬ СТОИМОСТЬ</button>
 					</form>
-					<div className={s.info}></div>
+					<div className={s.info}>
+						<div className={s.info_image}>
+							<Image src="/assets/image/rings/order/azakli.jpg" width={400} height={600} alt="image" />
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

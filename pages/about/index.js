@@ -1,4 +1,4 @@
-import SocialLinks from "../../components/social-links/social-links";
+import Head from "next/head";
 import Contacts from "../../components/contacts/contacts";
 
 import s from "./about.module.scss";
@@ -7,7 +7,9 @@ import s from "./about.module.scss";
 const About = () => {
 	return (
 		<div className={s.about}>
-
+			<Head>
+				<title>About</title>
+			</Head>
 			<div className={s.about_wrap}>
 				<div className="container">
 					<h1 className={s.about_title}>О НАС</h1>
