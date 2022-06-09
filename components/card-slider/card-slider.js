@@ -3,6 +3,9 @@ import Image from "next/image";
 import { Autoplay, EffectFade } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
+import art021_s from "/public/assets/image/rings/wedding/021-s.jpg";
+import art021_g from "/public/assets/image/rings/wedding/021-g.jpg";
+import art021_b from "/public/assets/image/rings/wedding/021-b.jpg";
 import s from "./card-slider.module.scss";
 
 import 'swiper/css';
@@ -31,17 +34,17 @@ export const CardSlider = () => {
 						>
 							<SwiperSlide>
 								<div className={s.card_slider_image}>
-									<Image src="/assets/image/rings/wedding/021-s.jpg" width={280} height={280} alt="jewel" />
+									<Image src={art021_s} width={280} height={280} alt="jewel" />
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
 								<div className={s.card_slider_image}>
-									<Image src="/assets/image/rings/wedding/021-g.jpg" width={280} height={280} alt="jewel" />
+									<Image src={art021_g} width={280} height={280} alt="jewel" />
 								</div>
 							</SwiperSlide>
 							<SwiperSlide>
 								<div className={s.card_slider_image}>
-									<Image src="/assets/image/rings/wedding/021-b.jpg" width={280} height={280} alt="jewel" />
+									<Image src={art021_b} width={280} height={280} alt="jewel" />
 								</div>
 							</SwiperSlide>
 						</Swiper>

@@ -5,7 +5,7 @@ import ProductsList from "../../components/products-list/products-list";
 import { DescBottomCatalog } from "../../components/desc-bottom-catalog";
 import Pagination from "../../components/pagination/pagination";
 
-import s from "./wedding-rings.module.scss";
+import s from "./index.module.scss";
 
 
 const WeddingRings = () => {

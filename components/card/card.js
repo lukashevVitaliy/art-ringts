@@ -27,6 +27,5 @@ export const Card = () => {
 				</div>
 			</a>
 		</Link>
-
 	)
 }
