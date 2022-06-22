@@ -4,30 +4,30 @@ import s from "./products-list.module.scss";
 
 import React from 'react'
 
-const ProductsList = () => {
+const ProductsList = ({ url }) => {
 	return (
 		<div className={s.products_list}>
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
-			<CardSlider />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
+			<CardSlider url={url} />
 		</div>
 	)
 }

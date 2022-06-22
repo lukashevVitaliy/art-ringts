@@ -1,6 +1,7 @@
 @import "./reset.scss";
 @import "./variables.scss";
 @import "./buttons.scss";
+@import "./burger-menu.scss";
 
 html,
 body {
@@ -11,6 +12,7 @@ body {
 }
 
 body {
+	position: relative;
 	font-family: "Open Sans", sans-serif;
 	font-style: normal;
 	color: $main-color;
@@ -36,7 +38,10 @@ main {
 }
 
 .error-form {
-	margin: 5px 0;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 16px;
+	margin: 6px 0 0;
 	color: $red !important;
 	visibility: hidden;
 }
@@ -127,4 +132,8 @@ main {
 .custom-select__control.custom-select__control--is-focused.custom-select__control--menu-is-open.css-1pahdxg-control {
 	border-color: $grey;
 	box-shadow: 0 0 5px 1px $grey;
+}
+
+.swiper-slide-thumb-active {
+	opacity: 0.5;
 }

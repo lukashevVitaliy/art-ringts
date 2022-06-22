@@ -22,12 +22,12 @@ const HeaderLevel_2 = () => {
 								</Link>
 							</li>
 							<li className={s.navigate_menu_link}>
-								<Link href="#">
+								<Link href="/delivery-and-payment">
 									<a>Доставка и Оплата</a>
 								</Link>
 							</li>
 							<li className={s.navigate_menu_link}>
-								<Link href="#">
+								<Link href="/buyer-protection">
 									<a>Гарантии</a>
 								</Link>
 							</li>

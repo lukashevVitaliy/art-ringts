@@ -1,0 +1,64 @@
+@import "../../styles/variables.scss";
+
+.rating {
+	width: 225px;
+	height: 71px;
+	&_label {
+		font-weight: 400;
+		font-size: 12px;
+		line-height: 16px;
+		color: $blue-lite;
+		margin-bottom: 15px;
+	}
+	&_review {
+		height: 40px;
+		position: relative;
+		font-size: 40px;
+		display: inline-block;
+		&::before {
+			content: "★★★★★";
+			display: block;
+		}
+		&_items {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			display: flex;
+			flex-direction: row-reverse;
+			overflow: hidden;
+		}
+		&_item {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 0;
+			height: 0;
+			opacity: 0;
+			visibility: hidden;
+			color: $red;
+		}
+		&_label {
+			flex: 0 0 20%;
+			height: 100%;
+			cursor: pointer;
+			color: $grey;
+			&::before {
+				content: "★";
+				display: block;
+				transition: color 0.3s ease 0s;
+			}
+		}
+	}
+	&_review_item:checked,
+	&_review_item:checked ~ .rating_review_label {
+		color: orange;
+	}
+
+	&_review_label:hover,
+	&_review_label:hover ~ .rating_review_label,
+	&_review_label:checked ~ .rating_review_label:hover {
+		color: orange;
+	}
+}

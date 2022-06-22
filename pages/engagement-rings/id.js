@@ -18,7 +18,7 @@ const RingId = () => {
 	return (
 		<div className={s.ring_id}>
 			<Head>
-				<title>Wedding Ring</title>
+				<title>Engagement Ring</title>
 			</Head>
 			<div className="container">
 				<ul className="breadcrumbs_list">
@@ -26,7 +26,7 @@ const RingId = () => {
 						<Link href="/"><a>Главная</a></Link>
 					</li>
 					<li className="breadcrumbs_item">
-						<Link href="/wedding-rings"><a>Обручальные кольца</a></Link>
+						<Link href="/engagement-rings"><a>Помолвочные кольца</a></Link>
 					</li>
 				</ul>
 

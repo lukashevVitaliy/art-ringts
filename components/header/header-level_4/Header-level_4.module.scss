@@ -1,11 +1,15 @@
 @import "../../../styles/variables.scss";
 
 .navigate_bottom {
+	position: relative;
 	&_wrap {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
 		min-height: 63px;
+		width: 1340px;
+		padding: 0 15px;
+		margin: 0 auto;
 	}
 	&_left {
 		display: flex;

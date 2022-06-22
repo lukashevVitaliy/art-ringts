@@ -12,9 +12,9 @@ import 'swiper/css';
 import 'swiper/css/autoplay';
 import 'swiper/css/effect-fade';
 
-export const CardSlider = () => {
+export const CardSlider = ({ url }) => {
 	return (
-		<Link href="#" >
+		<Link href={url} >
 			<a>
 				<div className={s.card_slider}>
 					<div className={s.card_slider_wrap}>

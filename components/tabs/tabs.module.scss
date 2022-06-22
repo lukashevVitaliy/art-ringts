@@ -1,0 +1,23 @@
+@import "../../styles/variables.scss";
+
+.tabs {
+	&_header {
+		padding-bottom: 15px;
+		margin-bottom: 20px;
+		border-bottom: 1px solid rgba($color: $blue-lite, $alpha: 0.2);
+		&_items {
+			display: grid;
+			grid-template-columns: 50% 50%;
+			justify-content: center;
+			grid-auto-rows: 1fr;
+		}
+		&_item {
+			width: 100px;
+			display: flex;
+			margin: 0 auto;
+			font-weight: 400;
+			color: $blue;
+			cursor: pointer;
+		}
+	}
+}

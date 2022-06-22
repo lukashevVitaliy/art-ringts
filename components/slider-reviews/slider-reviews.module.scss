@@ -1,0 +1,43 @@
+@import "../../styles/variables.scss";
+
+.slider_reviews {
+	margin-bottom: 30px;
+	.swiper_slider {
+		width: 430px;
+		height: 360px;
+		background: $substrate;
+		&_wrap {
+			padding: 40px 30px;
+		}
+		&_name {
+			font-weight: 600;
+			line-height: 22px;
+			margin-bottom: 5px;
+		}
+		&_rating {
+			font-size: 20px;
+			color: orange;
+			margin-bottom: 15px;
+		}
+		&_message {
+			font-weight: 400;
+			line-height: 22px;
+			margin-bottom: 15px;
+		}
+		&_images {
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+			margin-bottom: 20px;
+		}
+		&_image {
+			margin-right: 10px;
+		}
+		&_data {
+			font-weight: 400;
+			font-size: 12px;
+			line-height: 16px;
+			opacity: 0.5;
+		}
+	}
+}
