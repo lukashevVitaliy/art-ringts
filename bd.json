@@ -1,0 +1,1469 @@
+{
+	"rings": [
+		{
+			"wedding": [
+				{
+					"id": 1,
+					"articule": "Арт.019",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 69100,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/019/019-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/019/019-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/019/019-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "9,9 гр",
+						"material": "Золото 585 пр",
+						"inserts": "7 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950",
+						"view": "06"
+					},
+					"description": "Изящные классические обручальные кольца из белого золота с бриллиантами в женском кольце. Прекрасные парные кольца, подчёркивающие ваш тонкий вкус. Мы добавили семь великолепных бриллиантов - теперь обручальное кольцо ещё и роскошное украшение! Возможно выполнение в белом, жёлтом или розовом золоте.",
+					"rewiews": [
+						{
+							"id": "r1",
+							"name": "София",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						},
+						{
+							"id": "r2",
+							"name": "Виталий",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"articule": "Арт.020",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 116300,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/020/020-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/020/020-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/020/020-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "13,1 гр",
+						"material": "Золото 585 пр",
+						"inserts": "54 Бриллианта Кр 57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "4"
+					},
+					"description": "Прекрасные обручальные кольца с инкрустацией дорожками бриллиантов в женском кольце. Это замечательный образец современной классики. Бриллианты в кольце расположены под углом к шинке. Камни при столь необычном расположении сияют по-особенному. Их блеск заметен лучше всего когда рука находится в движении. Мужское кольцо без инкрустации, оно более строгое. Скосы шинки имеют другую, матированную, фактуру. В целом дизайн этих парных колец очень изысканный и современный. Такие кольца обязательно понравятся тем, кто ищет что-то классическое и в то же время особенное, не такое, как у всех!",
+					"rewiews": [
+						{
+							"id": "r1",
+							"name": "София",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						},
+						{
+							"id": "r2",
+							"name": "Виталий",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						}
+					]
+				},
+				{
+					"id": 3,
+					"articule": "Арт.021",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 76000,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/021/021-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/021/021-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/021/021-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "13,1 гр",
+						"material": "Золото 585 пр",
+						"inserts": "9 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "07"
+					},
+					"description": "Обручальные кольца в классическом стиле, разделенные нежной волной и контрастной тексктурой. Кольцо невесты украшает дорожка с бриллиантами. Современная классика на все времена!",
+					"rewiews": [
+						{
+							"id": "r1",
+							"name": "София",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						},
+						{
+							"id": "r2",
+							"name": "Виталий",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						}
+					]
+				},
+				{
+					"id": 4,
+					"articule": "Арт.028",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 57800,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/028/028-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/028/028-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/028/028-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "8,76 гр",
+						"material": "Золото 585 пр",
+						"inserts": "1 Бриллиант Кр. 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "07"
+					},
+					"description": "Прекрасные обручальные кольца из золота с восхитительным круглым бриллиантом в кольце невесты. Матированное золото не только благородно выглядит, но и очень практично - на нём не будут видны возможные царапины. Эти обручальные кольца с изюминкой: в них добавлена асимметричная глянцевая полоса- с ней они гораздо интересней! Обручальные кольца из белого золота сейчас на пике моды, по вашему желанию изготовим их в золоте любого цвета, а также из платины.",
+					"rewiews": [
+						{
+							"id": "r1",
+							"name": "София",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						},
+						{
+							"id": "r2",
+							"name": "Виталий",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						}
+					]
+				},
+				{
+					"id": 5,
+					"articule": "Арт.030",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 52440,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/030/030-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/030/030-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/030/030-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "6,61 гр",
+						"material": "Золото 585 пр",
+						"inserts": "15 Бриллиантов Кр57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "30"
+					},
+					"description": "Обручальные кольца из золота двух контрастных фактур: матовой более широкой и узкой глянцевой, разделяющихся вдоль кольца. Можно выполнить кольца полностью из золота только одного вида поверхности. Женское кольцо украшено дорожкой из пятнадцати роскошных искрящихся бриллиантов, мужское — выполнено в более строгом и лаконичном стиле. Изготовим в белом, жёлтом или розовом (красном) золоте.",
+					"rewiews": [
+						{
+							"id": "r1",
+							"name": "София",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						},
+						{
+							"id": "r2",
+							"name": "Виталий",
+							"rating": "★★★★★",
+							"message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque nobis natus commodi, velit magni iste.",
+							"data": "21.06.2022"
+						}
+					]
+				},
+				{
+					"id": 6,
+					"articule": "Арт.031",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 64550,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/031/031-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/031/031-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/031/031-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "9,88 гр.",
+						"material": "Золото 585 пр",
+						"inserts": "1 Бриллиант Кр 57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "6"
+					},
+					"description": "Нескучная классика - это геометричные обручальные кольца с бриллиантом в кольце невесты. Эффектные, необычные и современные кольца!",
+					"rewiews": []
+				},
+				{
+					"id": 7,
+					"articule": "Арт.032",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 61675,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/032/032-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/032/032-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/032/032-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "9,49 гр.",
+						"material": "Золото 585 пр",
+						"inserts": "2 Бриллианта Кр. 57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "30"
+					},
+					"description": "Обручальные кольца из золота двух контрастных фактур прекрасный выбор для любителей классики, но кто хочет добавить изюминку в свои парные обручальные кольца. Так же вы можете внести любые изменения в кольца у нас в студии.",
+					"rewiews": []
+				},
+				{
+					"id": 8,
+					"articule": "Арт.033",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 64150,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/032/032-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/032/032-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/032/032-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "7,4 гр",
+						"material": "Золото 585 пр",
+						"inserts": "19 Бриллиантов Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "27"
+					},
+					"description": "Недорогие, но при этом совсем не скромные классические обручальные кольца. Женское кольцо инкрустировано одним крупным бриллиантом и восемнадцатью поменьше. Цвет и фактуру колец  (глянец, матирование), Вы можете выбрать сами. Для наших колец мы закупаем только самые лучшие бриллианты, идеальной чистоты и огранки!",
+					"rewiews": []
+				},
+				{
+					"id": 9,
+					"articule": "Арт.034",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 133200,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/034/034-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-b1s2-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-b2s1-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-g1s2-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-g2s1-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "14,9 гр",
+						"material": "Золото 585 пр",
+						"inserts": "42 Бриллианта Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "2"
+					},
+					"description": "Прекрасные обручальные кольца с гравировкой имён супругов и бриллиантами. Великолепные, стильные кольца с ноткой романтики и роскошью золота и бриллиантов. Такие обручальные кольца не только символ супружества, но и прекрасное украшение на каждый день: что может быть шикарнее, чем золото и бриллианты? Art-Rings подберёт индивидуальный шрифт на любом языке согласно Вашим пожеланиям, также возможно изготовить эти кольца в однотонном варианте.Недорогие, но при этом совсем не скромные классические обручальные кольца. Женское кольцо инкрустировано одним крупным бриллиантом и восемнадцатью поменьше. Цвет и фактуру колец  (глянец, матирование), Вы можете выбрать сами. Для наших колец мы закупаем только самые лучшие бриллианты, идеальной чистоты и огранки!Прекрасные обручальные кольца с гравировкой имён супругов и бриллиантами. Великолепные, стильные кольца с ноткой романтики и роскошью золота и бриллиантов. Такие обручальные кольца не только символ супружества, но и прекрасное украшение на каждый день: что может быть шикарнее, чем золото и бриллианты? Art-Rings подберёт индивидуальный шрифт на любом языке согласно Вашим пожеланиям, также возможно изготовить эти кольца в однотонном варианте.",
+					"rewiews": []
+				},
+				{
+					"id": 10,
+					"articule": "Арт.034",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 133200,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/034/034-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-b1s2-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-b2s1-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-g1s2-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/034/034-g2s1-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "14,9 гр",
+						"material": "Золото 585 пр",
+						"inserts": "42 Бриллианта Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "2"
+					},
+					"description": "Прекрасные обручальные кольца с гравировкой имён супругов и бриллиантами. Великолепные, стильные кольца с ноткой романтики и роскошью золота и бриллиантов. Такие обручальные кольца не только символ супружества, но и прекрасное украшение на каждый день: что может быть шикарнее, чем золото и бриллианты? Art-Rings подберёт индивидуальный шрифт на любом языке согласно Вашим пожеланиям, также возможно изготовить эти кольца в однотонном варианте.Недорогие, но при этом совсем не скромные классические обручальные кольца. Женское кольцо инкрустировано одним крупным бриллиантом и восемнадцатью поменьше. Цвет и фактуру колец  (глянец, матирование), Вы можете выбрать сами. Для наших колец мы закупаем только самые лучшие бриллианты, идеальной чистоты и огранки!Прекрасные обручальные кольца с гравировкой имён супругов и бриллиантами. Великолепные, стильные кольца с ноткой романтики и роскошью золота и бриллиантов. Такие обручальные кольца не только символ супружества, но и прекрасное украшение на каждый день: что может быть шикарнее, чем золото и бриллианты? Art-Rings подберёт индивидуальный шрифт на любом языке согласно Вашим пожеланиям, также возможно изготовить эти кольца в однотонном варианте.",
+					"rewiews": []
+				},
+				{
+					"id": 11,
+					"articule": "Арт.036",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 35700,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/036/036-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/036/036-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/036/036-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "5,4 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "41"
+					},
+					"description": "Классические узкие обручальные кольца. Простота и проверенный годами дизайн для тех, кому не нужно \"ничего лишнего\"! ",
+					"rewiews": []
+				},
+				{
+					"id": 12,
+					"articule": "Арт.038",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 50500,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/036/036-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/036/036-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/036/036-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "7,85 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "05"
+					},
+					"description": "Необычные обручальные кольца с растительным орнаментом.",
+					"rewiews": []
+				},
+				{
+					"id": 13,
+					"articule": "Арт.047",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 82260,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/047/047-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/047/047-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/047/047-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "13,1 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "29"
+					},
+					"description": "Парные обручальные кольца в винтажном стиле с зернистой фактурой бортиков — огранка milgrain вдоль гладкой полосы белого золота. Такие кольца очень изящны, необычны, великолепно смотрятся на руке. Цвет золота можно выбрать любой: красное (розовое), белое, желтое.",
+					"rewiews": []
+				},
+				{
+					"id": 14,
+					"articule": "Арт.049",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 51100,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/049/049-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/049/049-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/049/049-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "7,01 гр",
+						"material": "Золото 585 пр",
+						"inserts": "9 Бриллиантов Кр57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "30"
+					},
+					"description": "Вариант классических парных обручальных колец с матовой поверхностью и глянцевыми бортиками. Кольцо невесты инкрустировано девятью великолепными сияющими бриллиантами. Эти кольца- доступная роскошь: золотые обручальные кольца с бриллиантами могут быть недорогими (но только в Art-Rings!) Гравировка с эмблемой нашей компании - лебедями и бриллиантом делается по желанию заказчика. Цена указана за 16 и 18 размеры.",
+					"rewiews": []
+				},
+				{
+					"id": 15,
+					"articule": "Арт.061",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 63900,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/061/061-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/061/061-b2s1-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/061/061-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/061/061-g2s1-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/061/061-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/061/061-s2b1-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/061/061-s2g1-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "9,57 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "36"
+					},
+					"description": "Двухцветные обручальные кольца могут быть изготовлены в любых цветах золота на выбор. Центральная часть кольца может быть подвижной и крутиться или остаться зафиксированной на месте. Выбор оставляем за Вами. Гравировка может быть любой: дата свадьбы или встречи, Ваши имена, тайное слово. Мы готовы поддержать любое Ваше желание и разместить гравировку внутри или снаружи!",
+					"rewiews": []
+				},
+				{
+					"id": 16,
+					"articule": "Арт.063",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 71055,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/063/063-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/063/063-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/063/063-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "6,75 гр",
+						"material": "Золото 585 пр",
+						"inserts": "36 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "44"
+					},
+					"description": "Контрастные обручальные кольца. Кольцо жениха - чистая классика, кольцо невесты - нежное переплетение линий с инкрустацией бриллиантов. ",
+					"rewiews": []
+				},
+				{
+					"id": 16,
+					"articule": "Арт.095",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 44100,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/095/095-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/095/095-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/095/095-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "6,5 гр",
+						"material": "Золото 585 пр",
+						"inserts": "1 Бриллиант Кр. 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "07"
+					},
+					"description": "Классика, выполненная из белого золота с бриллиантом-красивым, ярким и шикарным! Есть вечные классические вещи-и эти обручальные кольца из их числа!",
+					"rewiews": []
+				},
+				{
+					"id": 17,
+					"articule": "Арт.096",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 50950,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/096/096-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/096/096-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/096/096-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "6,67 гр",
+						"material": "Золото 585 пр",
+						"inserts": "12 Бриллиантов Кр57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "20"
+					},
+					"description": "Эти обручальные кольца вам обязательно запомнятся! Россыпь бриллиантов на кольце невесты превращает эти парные свадебные кольца в изысканное и роскошное украшение! Благодаря такому расположению камней, женское кольцо искрится бриллиантовым блеском- невероятно красиво!",
+					"rewiews": []
+				},
+				{
+					"id": 18,
+					"articule": "Арт.097",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 118800,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/097/097-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/097/097-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/097/097-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/097/097-sg-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "12,5 гр",
+						"material": "Золото 585 пр",
+						"inserts": "16 Бриллиантов Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "29"
+					},
+					"description": "Парная двухцветная модель обручальных колец с узором косичкой и бриллиантами в женском кольце. Изысканность и шик – 2 в 1!",
+					"rewiews": []
+				},
+				{
+					"id": 19,
+					"articule": "Арт.098",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 168550,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/098/098-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/098/098-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/098/098-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "11,3 гр",
+						"material": "Золото 585 пр",
+						"inserts": "11 Бриллиантов Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "17"
+					},
+					"description": "Шикарные обручальные кольца с бриллиантами в женском кольце. Определённо, такое обручальное кольцо с одиннадцатью крупными бриллиантами скромнице не подойдёт! С этим кольцом Вы будете сиять всегда! Мужское кольцо сдержанно, без инкрустации, декорировано фактурно матированной центральной частью с небольшими уступами по бокам. Это великолепный выбор для тех, кто искал роскошные свадебные украшения под стать себе!",
+					"rewiews": []
+				},
+				{
+					"id": 20,
+					"articule": "Арт.099",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 60500,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/099/099-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/099/099-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/099/099-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/099/099-sg-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "8,98 гр",
+						"material": "Золото 585 пр",
+						"inserts": "1 Бриллиант Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "30"
+					},
+					"description": "Великолепные классические кольца со сверкающим круглым бриллиантом в безупречной гранке Толковского.  Эти кольца при кажущемся лаконизме дизайна очень затейливы: здесь и матовая поверхность, и центральная бороздочка, придающая шинке изящества, и, конечно, роскошный бриллиант.",
+					"rewiews": []
+				},
+				{
+					"id": 21,
+					"articule": "Арт.100",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 257710,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/100/100-bg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/100/100-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/100/100-wg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/100/100-ws-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "21,36 гр",
+						"material": "Золото 585 пр",
+						"inserts": "50 Бриллиантов Кр. 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "30"
+					},
+					"description": "Яркий и жизнерадостный стиль этих колец, выполненных в технике горячей эмали способны всегда поднять ваше настроение. Высококачественная итальянская эмаль создает красивые цветовые переливы и блеск, подчеркивая красоту металла. Цвет эмали может быть любым. Кольцо украшено дорожкой роскошных бриллиантов с наилучшими характеристиками прозрачности и огранки, а поверх эмали золотом могут быть выгравированы первые буквы имен супругов, а так же красивые растительные узоры.",
+					"rewiews": []
+				},
+				{
+					"id": 22,
+					"articule": "Арт.101",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 49200,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/101/101-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/101/101-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/101/101-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/101/101-s2-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "6,7 гр",
+						"material": "Золото 585 пр",
+						"inserts": "9 Бриллиантов Кр57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "31"
+					},
+					"description": "Эти золотые свадебные кольца с бриллиантами - именно то, о чём можно мечтать! Матовая поверхность золота выглядит очень благородно, а роскоши ей придают девять бриллиантов, расположенных по трое в женском кольце. В дизайне этих парных колец классика и элегантность дополнены роскошью бриллиантов.",
+					"rewiews": []
+				},
+				{
+					"id": 23,
+					"articule": "Арт.102",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 76350,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/102/102-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/102/102-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/102/102-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "10,14 гр",
+						"material": "Золото 585 пр",
+						"inserts": "1 Бриллиант Кр57",
+						"composition": "золота 585 пр",
+						"view": "27"
+					},
+					"description": "Классические гладкие обручальные кольца из полукруглого профиля с крупным бриллиантом в кольце невесты. Бриллиант в кольце невесты посажен глубоко в кольцо, словно разделяя его и красиво играя гранями с любого ракурса. Классика прекрасна и всегда в моде.",
+					"rewiews": []
+				},
+				{
+					"id": 24,
+					"articule": "Арт.103",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 114400,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/103/103-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/103/103-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/103/103-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/103/103-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/103/103-sg-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "15,6 гр",
+						"material": "Золото 585 пр",
+						"inserts": "2 Бриллианта Кр 57",
+						"composition": "750 пробы и платины",
+						"view": "3"
+					},
+					"description": "Изящные и необычные обручальные кольца с бриллиантами. Декор выполнен из золота контрастного оттенка. Сочетание тёплого и холодного цветов золота не только эффектно выглядит, но и подходит к любым другим украшениям, одежде и аксессуарам. Такие кольца будут нравиться всегда: золото и бриллианты-что может быть роскошней?",
+					"rewiews": []
+				},
+				{
+					"id": 25,
+					"articule": "Арт.107",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 92950,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/107/107-bsb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/107/107-gsg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/107/107-sbs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/107/107-sgs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/107/107-sss-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "10.7 гр",
+						"material": "Золото 585 пр",
+						"inserts": "20 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "9"
+					},
+					"description": "Необычные дизайнерские обручальные кольца из комбинированного золота с бриллиантами. Женское кольцо украшает дорожка из 20-ти чистейших бриллиантов. Изготовим из белого, красного и белого золота, а также из платины.",
+					"rewiews": []
+				},
+				{
+					"id": 26,
+					"articule": "Арт.108",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 106380,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/public/assets/image/rings/wedding/108/108-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/108/108-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/108/108-s-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/108/108-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/108/108-sg-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "12,48 гр",
+						"material": "Золото 585 пр",
+						"inserts": "25 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "32"
+					},
+					"description": "Комбинированные обручальные кольца с дорожкой из бриллиантов и крупным центральным камнем в женской модели. Изящные золотые объятия для безымянного пальчика Вашей любимой принцессы!",
+					"rewiews": []
+				},
+				{
+					"id": 27,
+					"articule": "Арт.109",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 48950,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/109/109-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/109/109-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/109/109-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "7,59 гр",
+						"material": "Золото 585 пр",
+						"inserts": "25 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "45"
+					},
+					"description": "Современная вариация классических обручальных колец - фактурные однотонные кольца с сердцами на женском кольце. Матовая поверхность делает яркие и глянцевые золотые сердца ещё более объёмными и выделяющимися. Прекрасный выбор для любителей классического стиля. В этих кольцах есть и нотка классики, и современная \"изюминка\"!",
+					"rewiews": []
+				},
+				{
+					"id": 28,
+					"articule": "Арт.110",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 83210,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/110/110-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/110/110-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/110/110-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "11,8 гр",
+						"material": "Золото 585 пр",
+						"inserts": "7 Бриллиантов Кр 57",
+						"composition": "золота 585 пр",
+						"view": "07"
+					},
+					"description": "Вечно актуальные классические кольца с дорожкой бриллиантов в женском кольце. Классика будет модной во все времена. А здесь золото и бриллианты - воплощение мечты! Они напомнят вам кольца на маминой и папиной руке. Прекрасный выбор для тех, кто предпочитает строгий и классический стиль!",
+					"rewiews": []
+				},
+				{
+					"id": 29,
+					"articule": "Арт.111",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 113900,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/111/111-bsb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/111/111-gsg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/111/111-sbs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/111/111-sgs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/111/111-sss-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "17,2 гр",
+						"material": "Золото 585 пр",
+						"inserts": "3 Бриллианта Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "37"
+					},
+					"description": "Золотые классические кольца с рельефной поверхностью просто созданы для того, чтобы восхищать. Парные кольца словно состоят из множества соединенных вдоль тонких полосок металла, на кольцо невесты поверх этих полос наложен изящный растительный орнамент: стебли и листья из золота и три роскошных бриллианта, размещенных плотной косой дорожкой поперек кольца. Растительный орнамент может быть выполнен как из золота контрастного оттенка, так и того же цвета, что и основание кольца. Эти кольца просто созданы для того, чтобы восхищать! Они изысканные, утончённые и очень красивые.",
+					"rewiews": []
+				},
+				{
+					"id": 30,
+					"articule": "Арт.112",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 97050,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/112/112-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/112/112-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/112/112-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/112/112-sg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/112/112-ss-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "12 гр",
+						"material": "Золото 585 пр",
+						"inserts": "20 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "2"
+					},
+					"description": "Классические кольца с дорожкой великолепных искрящихся бриллиантов в кольце невесты. Они сочетают в себе изысканность и аристократизм, а сияние бриллиантов добавляет непревзойдённой роскоши.",
+					"rewiews": []
+				},
+				{
+					"id": 31,
+					"articule": "Арт.113",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 130545,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/113/113-bsBb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/113/113-bsBg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/113/113-gsBb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/113/113-gsBg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/113/113-sbBs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/113/113-sgBs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/113/113-ssBs-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "16,5 гр",
+						"material": "Золото 585 пр",
+						"inserts": "22 Бриллиcнт16,5 гр Кр 57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "1"
+					},
+					"description": "Ультрасовременные кольца в стиле техно содержат в себе четыре разных фактуры, идущих вдоль тела кольца: полоса матового золота, декор из черного родия, выполненный в виде мелких квадратов, полоса гладкого золота, слой из округлых сегментов, выполненных в виде «зубьев», увенчивающих кольца. На женском кольце гладкую полосу украшает дорожка восхитительных искрящихся бриллиантов. Сочетание необычных поверхностей, цветов и фактур делает эти кольца незабываемыми, ни на что не похожими, очень индивидуальными. Благодаря такому сочетанию эти кольца прекрасно впишутся в стиль необычных людей, а бриллианты в женском кольце — это непреходящая ценность на все времена. Прекрасный выбор для тех, кто ищет нечто исключительно стильное на свою свадьбу!",
+					"rewiews": []
+				},
+				{
+					"id": 32,
+					"articule": "Арт.114",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 89515,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/public/assets/image/rings/wedding/114/114-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/114/114-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/114/114-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/public/assets/image/rings/wedding/114/114-sg-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "14,3 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золота 585 пр",
+						"view": "3"
+					},
+					"description": "Великолепные обручальные кольца с с изящным декором контрастного оттенка. Такие кольца прекрасно и очень благородно смотрятся на руке.",
+					"rewiews": []
+				},
+				{
+					"id": 33,
+					"articule": "Арт.115",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 92215,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/115/115-bs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/115/115-gs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/115/115-sb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/115/115-sg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/115/115-ss-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "14,25 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золота 585 пр",
+						"view": "26"
+					},
+					"description": "Восхитительные кольца с символом изобилия — виноградом. Эти кольца сами по себе — прекрасное, изысканное украшение: по центру кольца идет непрерывный кружевной узор из виноградной лозы. Обрамляет широкое полотно узора гладкое золото контрастного цвета, оно же виднеется и из-под узора. Узор визуально выглядит объемно и роскошно, но при этом он не выдается выше бортиков кольца — сбоку кольцо выглядит абсолютно гладким. Помимо дизайна, у этих обручальных колец необычная конструкция — центр (виноградный узор) вращается, что делает их ещё более неординарными. Утонченные и романтичные обручальные кольца!",
+					"rewiews": []
+				},
+				{
+					"id": 34,
+					"articule": "Арт.116",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 100000,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/116/116-s-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/116/116-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/116/116-g-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "13,6 гр",
+						"material": "Золото 585 пр",
+						"inserts": "1 Бриллиант Принцесса",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "4"
+					},
+					"description": "Парные обручальные кольца с бриллиантом огранки \"принцесса\" в женском кольце. Очень красиво в них сочетание благородного матового и роскошного глянцевого золота. Также необычен профиль колец: он редко встречается, а фаски по краям делают кольца гораздо более удобными при носке.",
+					"rewiews": []
+				},
+				{
+					"id": 35,
+					"articule": "Арт.117",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 99345,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/117/117-bsbsb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/117/117-gsgsg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/117/117-sbsbs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/117/117-sgsgs-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "15,3 гр",
+						"material": "Золото 585 пр",
+						"inserts": "3 Бриллианта Кр 57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "4"
+					},
+					"description": "Обручальное счастье - это обручальные кольца классической формы в современной интерпретации. Выглядят роскошно и стильно. Три весьма крупных бриллианта в женском кольце придают ему искрящееся настроение. Беспроигрышное сочетание белого и жёлтого золота, оформленное контрастными полосами, вносит изюминку этой модели. Эти кольца, благодаря изящному дизайнерскому решению, смотрятся одновременно и строго, и нарядно. Великолепный выбор для ценителей классики!",
+					"rewiews": []
+				},
+				{
+					"id": 36,
+					"articule": "Арт.118",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 131500,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/118/118-bsb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/118/118-gsg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/118/118-sbs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/118/118-sgs-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "21,2 гр",
+						"material": "Золото 585 пр",
+						"inserts": "нет",
+						"composition": "золото 750 пр и платины 950 пр",
+						"view": "4"
+					},
+					"description": "Драгоценная частичка вашего счастья - эти золотые обручальные кольца. Необычная рифлёная поверхность очень украшает и притягивает взгляды к вашим рукам: свет играет в каждой ячейке. Сочетание разных оттенков золота подойдёт к одежде всех цветов  и любым украшениям. Прекрасные обручальные кольца, которые напомнят о самых счастливых моментах!",
+					"rewiews": []
+				},
+				{
+					"id": 37,
+					"articule": "Арт.119",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 115600,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/119/119-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/119/119-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/119/119-s-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "17,44 гр",
+						"material": "Золото 585 пр",
+						"inserts": "9 Бриллиантов Кр. 57",
+						"composition": "золото 585 пр",
+						"view": "20"
+					},
+					"description": "Девять самых лучших бриллиантов на волне из золота - вот идея этих шикарных обручальных колец. Объёмные, нежные волны бьются о берег из матированного золота. Изящный узор придаёт нотку романтичности и сентиментальности. Широкие, статусные кольца. Прекрасный выбор: элегантность, классика и прекрасный вкус всегда в моде.",
+					"rewiews": []
+				},
+				{
+					"id": 38,
+					"articule": "Арт.120",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 58600,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/120/120-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/120/120-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/120/120-s-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "8.5 гр",
+						"material": "Золото 585 пр",
+						"inserts": "3 Бриллианта Кр. 57",
+						"composition": "золото 585 пр",
+						"view": "07"
+					},
+					"description": "Нежные и притягательные золотые обручальные кольца с бриллиантами. Классическая форма обручальных колец дополнена опоясывающим нежным узором, придающим всему кольцу ноту романтичности и изысканности. Кольцо невесты инкрустировано тремя восхитительными искрящимися бриллиантами! Прекрасный выбор для тех, кто предпочитает актуальную во все времена классику.",
+					"rewiews": []
+				},
+				{
+					"id": 39,
+					"articule": "Арт.121",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 47160,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/121/121-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/121/121-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/121/121-s-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "6.57 гр",
+						"material": "Золото 585 пр",
+						"inserts": "7 Бриллиантов Кр. 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "30"
+					},
+					"description": "Оригинальные и недорогие парные свадебные кольца с семью восхитительными бриллиантами в женском кольце. Матовая поверхность золота с центральной глянцевой бороздкой смотрится необычно и благородно: такие обручальные кольца не только красивы, но и практичны в носке. Прекрасный выбор для ценителей классического стиля \"с изюминкой\".",
+					"rewiews": []
+				},
+				{
+					"id": 40,
+					"articule": "Арт.122",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 173540,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/122/122-bsb-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/122/122-gsg-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/122/122-sbs-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/122/122-sgs-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "19,8 гр",
+						"material": "Золото 585 пр",
+						"inserts": "50 Бриллиантов Кр 57, 50 Бриллиантов Кр57 черные",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "8"
+					},
+					"description": "Парные обручальные кольца с готическими буквами и дорожками бриллиантов по верхней и нижней части колец. Женское кольцо инкрустировано прозрачными бриллиантами самой лучшей чистоты и огранки. Мужское кольцо также инкрустировано бриллиантами, но чёрного цвета, кольцо выглядит очень стильно и брутально. Обращаем внимание, что надписи для Вас будут разработаны индивидуально, их можно сделать на любом языке. По желанию можно добавить символы, дату свадьбы или знакомства.",
+					"rewiews": []
+				},
+				{
+					"id": 41,
+					"articule": "Арт.123",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 48800,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/123/123-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/123/123-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/123/123-s-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "5,9 гр",
+						"material": "Золото 585 пр",
+						"inserts": "16 Бриллиантов Кр 57",
+						"composition": "золота 750 пр и платины 950 пр",
+						"view": "12"
+					},
+					"description": "Красивые парные кольца с геометрическим дизайном и 16 прекрасными бриллиантами в женском кольце. Матовое золото, прямоугольный профиль дополнен двумя бороздками, вдоль которых на женском кольце расположено по 8 сияющих бриллиантов. Замечательный выбор для ценителей современной классики.",
+					"rewiews": []
+				},
+				{
+					"id": 42,
+					"articule": "Арт.124",
+					"category": "Обручальные кольца",
+					"rating": "★★★★★",
+					"currency": "₽",
+					"priceNew": 145500,
+					"priceOld": 0,
+					"sampleOffice": true,
+					"colorImage": [
+						{
+							"image": "/assets/image/rings/wedding/124/124-b-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/124/124-g-1270x1270.jpg"
+						},
+						{
+							"image": "/assets/image/rings/wedding/124/124-s-1270x1270.jpg"
+						}
+					],
+					"features": {
+						"weight": "16,84 гр",
+						"material": "Золото 585 пр",
+						"inserts": "46 Бриллиантов Кр 57",
+						"composition": "золота 750 пр или платины 950 пр",
+						"view": "09"
+					},
+					"description": "Нескучная классика - это обручальные кольца с дорожкой бриллиантов в кольце невесты. Волна из бриллиантов, закреплённых в торце женского кольца - это одно из новых веяний в ювелирном искусстве. Такой способ инкрустации камнями позволяет не афишировать наличие бриллиантов, но молниеносно оценить игру света, если рука находится в движении. Эффектные, необычные и современные кольца!",
+					"rewiews": []
+				}
+			]
+		}
+	]
+}
