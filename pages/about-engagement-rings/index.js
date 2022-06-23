@@ -58,7 +58,7 @@ const AboutEngagementRings = () => {
 						</div>
 					</div>
 					<div className={s.about_engagement_rings_image}>
-						<Image src="/assets/image/rings/engagement-rings/engagement-rings.jpg" width={399} height={345} alt="wedding rings" />
+						<Image src="/assets/image/rings/engagement/engagement-rings.jpg" width={399} height={345} alt="wedding rings" />
 					</div>
 				</div>
 			</div>
